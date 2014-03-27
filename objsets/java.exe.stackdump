@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=610C8439
+eax=00000000 ebx=00000001 ecx=00000000 edx=00000150 esi=00000000 edi=1AC0CCAC
+ebp=1AC0CAE8 esp=1AC0CAC0 program=\\?\C:\Windows\system32\java.exe, pid 4432, thread unknown (0x165C)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args

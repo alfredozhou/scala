@@ -1,0 +1,16 @@
+
+*.class
+jars/
+lib/
+target/
+project/
+submission/
+.project
+.cache
+.classpath
+.hg/
+.settings/
+.worksheet/
+.idea
+.hgignore
+
